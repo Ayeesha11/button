@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">button</string>
+    <string-array name="subjects">
+        <item>python</item>
+    <item>java</item>
+    <item>Ruby</item>
+    <item>Android</item>
+</string-array>
+</resources>
